@@ -39,5 +39,7 @@ Wishlist functionality
 Product reviews and ratings
 
 
+Screenshort (HOME_PAGE)
+
 <img width="1366" height="4049" alt="Home_Page" src="https://github.com/user-attachments/assets/92f0420f-6d9a-42fd-8047-37812808d0fd" />
 
