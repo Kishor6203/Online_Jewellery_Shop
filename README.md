@@ -26,4 +26,3 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla JS) – Interactivity and dynamic features
 
-<img width="1366" height="4069" alt="Home_Page" src="https://github.com/user-attachments/assets/213b330b-d17f-4efb-aa72-5fd6c8f66f24" />
