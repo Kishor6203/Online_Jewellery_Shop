@@ -1,30 +1,28 @@
-💎 Online Jewellery Shop
+💎 Online Jewellery Shop – Frontend
+📌 Project Overview
 
-A responsive and elegant e-commerce website for showcasing and purchasing jewellery items. Built using HTML, CSS, and JavaScript, this project focuses on a smooth user experience with a modern UI.
+This is a responsive Online Jewellery Shop website built using HTML, CSS, and JavaScript.
+The project focuses on creating an elegant and user-friendly interface for browsing jewellery products such as rings, necklaces, earrings, and bracelets.
 
-📌 Features
-
-🛍️ Browse jewellery collections (rings, necklaces, earrings, etc.)
-
-🔍 Product search and filtering
-
-🖼️ Image gallery with product previews
-
-🛒 Add to cart functionality
-
-💳 Basic checkout interface (UI only)
-
-📱 Fully responsive design (mobile-friendly)
-
-🎨 Stylish and modern layout
+✨ Features
+🏠 Beautiful homepage with featured collections
+🛍️ Product listing with images, price, and details
+🔍 Search and filter functionality (JavaScript-based)
+🛒 Add to cart (frontend simulation)
+📱 Fully responsive design for mobile, tablet, and desktop
+🎨 Modern UI with smooth animations and transitions
 
 🛠️ Technologies Used
-
 HTML5 – Structure of the website
+CSS3 – Styling, layout, and responsiveness
+JavaScript (Vanilla JS) – Interactivity and dynamic content
 
-CSS3 – Styling and layout
-
-JavaScript (Vanilla JS) – Interactivity and dynamic features
+🔮 Future Improvements
+Backend integration (Node.js / Firebase)
+User authentication (login/signup)
+Payment gateway integration
+Wishlist functionality
+Product reviews and ratings
 
 
 <img width="1366" height="4049" alt="Home_Page" src="https://github.com/user-attachments/assets/92f0420f-6d9a-42fd-8047-37812808d0fd" />
